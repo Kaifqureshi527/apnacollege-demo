@@ -1,4 +1,5 @@
 # apnacollege-demo
+
 This is my first Git Repository
 <br>
-Author - Mohammed Kaif
+Author - Mohammed (Apna College)
